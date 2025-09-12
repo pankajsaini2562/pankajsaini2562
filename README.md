@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/pankajsaini2562" target="blank"><img src="https://img.shields.io/twitter/follow/pankajsaini2562?logo=twitter&style=for-the-badge" alt="pankajsaini2562" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full stack  Development**
 
 - 📫 How to reach me **pankajsaini2762@gmail.com**
 
