@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pankajsaini2562" target="blank"><img src="https://img.shields.io/twitter/follow/pankajsaini2562?logo=twitter&style=for-the-badge" alt="pankajsaini2562" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Full stack  Development**
 
