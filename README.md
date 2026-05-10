@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Saini</h1>
 <h3 align="center">A passionate Flutter Ful Stack  developer from India</h3>
-<img align = "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align = "right" alt="Coding" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsaini2562&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsaini2562" /> </p>
 
@@ -38,10 +38,13 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>
+
+
+<a><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsaini2562&show_icons=true&locale=en&layout=compact" alt="pankajsaini2562" /></a>
+
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pankajsaini2562&show_icons=true&locale=en" alt="pankajsaini2562" /></a>
+
+<a><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsaini2562&" alt="pankajsaini2562" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsaini2562&show_icons=true&locale=en&layout=compact" alt="pankajsaini2562" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsaini2562&show_icons=true&locale=en" alt="pankajsaini2562" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsaini2562&" alt="pankajsaini2562" /></p>
