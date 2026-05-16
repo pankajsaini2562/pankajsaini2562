@@ -9,9 +9,13 @@
 <p align="left"> <a href="https://twitter.com/pankajsaini2562" target="blank"><img src="https://img.shields.io/twitter/follow/pankajsaini2562?logo=twitter&style=for-the-badge" alt="pankajsaini2562" /></a> </p>
 
 🔭 I’m currently working on developing scalable and performant cross-platform mobile applications using Flutter.
+
 👯 I’m looking to collaborate on open-source Flutter projects that aim to solve real-world problems.
+
 🤝 I’m looking for help with optimizing app performance for large-scale data handling in Flutter.
+
 🌱 I’m currently learning advanced animations and custom rendering in Flutter.
+
 💬 Ask me about anything related to Flutter development, state management, or mobile app architecture
 
 - 💬 Ask me about **Full stack  Development**
