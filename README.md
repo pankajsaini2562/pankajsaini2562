@@ -18,7 +18,7 @@
 
 💬 Ask me about anything related to Flutter development, state management, or mobile app architecture
 
-- 💬 Ask me about **Full stack  Development**
+- 💬 Ask me about **Flutter Full stack  Development**
 
 - 📫 How to reach me **pankajsaini2762@gmail.com**
 
